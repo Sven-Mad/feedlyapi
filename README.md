@@ -1,4 +1,4 @@
 feedlyapi
 =========
 
-PHP wrapper around Feedly's REST API.
+PHP wrapper around <a href="http://developer.feedly.com/" target="_blank">Feedly's REST API</a>.
